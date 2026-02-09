@@ -11,8 +11,8 @@ This project demonstrates a basic Java servlet application deployed on Apache To
 ## Software and Versions Used
 - **Apache Tomcat 10.1.52**
 - **Java 24**
-- **Maven 3.8.4**
-- **IntelliJ IDEA Ultimate** (IDE)
+- **Maven (IntelliJ Integration)**
+- **IntelliJ IDEA** (IDE)
 - **Jakarta Servlet API 5.0.0**
 
 ## Screenshots
